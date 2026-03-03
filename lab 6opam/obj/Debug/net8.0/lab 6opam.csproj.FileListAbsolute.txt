@@ -1,0 +1,14 @@
+C:\Users\yopm2\RiderProjects\lab 6opam\obj\Debug\net8.0\lab 6opam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yopm2\RiderProjects\lab 6opam\obj\Debug\net8.0\lab 6opam.AssemblyInfoInputs.cache
+C:\Users\yopm2\RiderProjects\lab 6opam\obj\Debug\net8.0\lab 6opam.AssemblyInfo.cs
+C:\Users\yopm2\RiderProjects\lab 6opam\obj\Debug\net8.0\lab 6opam.csproj.CoreCompileInputs.cache
+C:\Users\yopm2\RiderProjects\lab 6opam\bin\Debug\net8.0\lab 6opam.exe
+C:\Users\yopm2\RiderProjects\lab 6opam\bin\Debug\net8.0\lab 6opam.deps.json
+C:\Users\yopm2\RiderProjects\lab 6opam\bin\Debug\net8.0\lab 6opam.runtimeconfig.json
+C:\Users\yopm2\RiderProjects\lab 6opam\bin\Debug\net8.0\lab 6opam.dll
+C:\Users\yopm2\RiderProjects\lab 6opam\bin\Debug\net8.0\lab 6opam.pdb
+C:\Users\yopm2\RiderProjects\lab 6opam\obj\Debug\net8.0\lab 6opam.dll
+C:\Users\yopm2\RiderProjects\lab 6opam\obj\Debug\net8.0\refint\lab 6opam.dll
+C:\Users\yopm2\RiderProjects\lab 6opam\obj\Debug\net8.0\lab 6opam.pdb
+C:\Users\yopm2\RiderProjects\lab 6opam\obj\Debug\net8.0\lab 6opam.genruntimeconfig.cache
+C:\Users\yopm2\RiderProjects\lab 6opam\obj\Debug\net8.0\ref\lab 6opam.dll
